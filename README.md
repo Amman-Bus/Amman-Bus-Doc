@@ -149,6 +149,6 @@ The Amman Bus Management System has been built on the concept of separating the 
 ## **Authors and Developers behind Amman Bus Management System**
 
 - Sarah Hudaib
-- Mustafa Alhasanat
+- Mustafa Alhasanat 
 - Batool Ragaya'h
 - Salim Hassouneh
